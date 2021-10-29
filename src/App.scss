@@ -1,0 +1,8 @@
+@import "static/scss/variables";
+
+body {
+  font: {
+    size: $font_size;
+    weight: $font_weight_bold;
+  }
+}
